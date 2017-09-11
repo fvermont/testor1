@@ -1,2 +1,3 @@
 hello testor
 this line was added using the github interface.
+then a new line is written from the local repo.
